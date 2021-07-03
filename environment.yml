@@ -1,0 +1,16 @@
+name: lpp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - lipyphilic
+  - mdanalysis
+  - ipywidgets
+  - jupyter_contrib_nbextensions
+  - widgetsnbextension
+  - joblib
+  - scikit-learn
+  - hmmlearn
+  - pytables
+  - tabulate
+
