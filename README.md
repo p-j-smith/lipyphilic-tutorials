@@ -1,8 +1,8 @@
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/p-j-smith/lipyphilic-tutorials/main?filepath=notebooks%2F1-Introduction-and_AssignLeaflets.ipynb) [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
 # lipyphilic tutorials
 Interactive tutorials for getting the most out of lipyphilic
-
-These tutorial notebooks are licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
