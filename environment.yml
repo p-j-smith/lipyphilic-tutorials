@@ -1,4 +1,4 @@
-name: lpp
+name: lpp-test
 channels:
   - conda-forge
   - defaults
@@ -12,7 +12,7 @@ dependencies:
   - hmmlearn
   - pytables
   - tabulate
-  - pip
+  - pip<19
   - pip:
-    - git+https://github.com/MDAnalysis/mdanalysis/tarball/develop
+    - git+https://github.com/MDAnalysis/mdanalysis@develop#egg=mdanalysis&subdirectory=package
 
