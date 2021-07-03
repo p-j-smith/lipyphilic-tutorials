@@ -12,6 +12,7 @@ dependencies:
   - hmmlearn
   - pytables
   - tabulate
-- pip:
-     - git+https://github.com/MDAnalysis/mdanalysis/tarball/develop
+  - pip
+  - pip:
+    - git+https://github.com/MDAnalysis/mdanalysis/tarball/develop
 
