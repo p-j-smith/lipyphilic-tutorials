@@ -4,7 +4,6 @@ channels:
   - defaults
 dependencies:
   - lipyphilic
-  - mdanalysis
   - ipywidgets
   - jupyter_contrib_nbextensions
   - widgetsnbextension
@@ -13,4 +12,6 @@ dependencies:
   - hmmlearn
   - pytables
   - tabulate
+- pip:
+     - git+https://github.com/MDAnalysis/mdanalysis/tarball/develop
 
