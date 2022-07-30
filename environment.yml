@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.9
   - lipyphilic
   - ipywidgets
   - jupyter_contrib_nbextensions
@@ -12,7 +13,3 @@ dependencies:
   - hmmlearn
   - pytables
   - tabulate
-  - pip<19
-  - pip:
-    - git+https://github.com/MDAnalysis/mdanalysis@develop#egg=mdanalysis&subdirectory=package
-
