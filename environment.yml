@@ -5,11 +5,10 @@ channels:
 dependencies:
   - python=3.11
   - lipyphilic
+  - ipykernel
   - ipywidgets
-  - jupyter_contrib_nbextensions
-  - widgetsnbextension
   - joblib
   - scikit-learn
-  - hmmlearn>=3.0
+  - hmmlearn
   - pytables
   - tabulate
