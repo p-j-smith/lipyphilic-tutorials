@@ -1,15 +1,15 @@
-name: lpp-test
+name: lpp-tutorials
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.9
+  - python=3.11
   - lipyphilic
   - ipywidgets
   - jupyter_contrib_nbextensions
   - widgetsnbextension
   - joblib
   - scikit-learn
-  - hmmlearn
+  - hmmlearn>=3.0
   - pytables
   - tabulate
